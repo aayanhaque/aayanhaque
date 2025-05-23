@@ -19,7 +19,7 @@ Seeking opportunities to leverage my expertise in Web Development, Machine Learn
 ![](https://github-profile-trophy.vercel.app/?username=aayanhaque&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🚀 Check out my portfolio
-<a href="https://mdaayanhaque.github.io/portfolio/" target="_blank">
+<a href="https://aayanhaque.github.io/Portfolio/" target="_blank">
   <img src="https://img.shields.io/badge/My_Portfolio-4B275F?style=for-the-badge&logo=leaflet&logoColor=white" alt="Portfolio" width="250" height="40"/>
 </a>
 
